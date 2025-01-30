@@ -1,16 +1,20 @@
-Subject: Request for Office Visit Scheduling
+Subject: [Office Visit/ Other Issue]
+
 Dear Dr. Abid,
-I hope this email finds you well. I would like to request a scheduled office visit to discuss a query I have related to the course. Below are the details required for the appointment:
+I hope this email finds you well. Below are my details :
+
 •	Name: [Student's Full Name]
 •	Roll Number: [Student's Roll Number]
 •	Degree Program: [Student's Degree Program Name]
 •	Section: [Section Information]
 •	Course Enrolled with You: [Course Name or Code]
 •	Detailed Explanation of Query/Issue:
+
 [Provide a detailed explanation of the query or issue that requires clarification.]
 
 Please note that I understand only you have the right to decide whether an office visit is necessary, and if you deem it suitable, I will be happy to receive an appointment. If not, I appreciate your help in resolving the query via email.
 
 Thank you for your time and consideration. I look forward to your response.
+
 Best regards,
 [Student's Full Name]
